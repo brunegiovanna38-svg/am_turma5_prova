@@ -539,7 +539,7 @@ print("Relatório de Classificação:\n", classification_report(y_test, y_pred_p
 
 ---
 
-### Prova Prática 11: Classificação do Perfil Profissional do Candidato à Docência
+### Prova Prática 11: Classificação do Perfil Profissional do Candidato à Docência(escolhi_essa)giovanna
 * **Objetivo Pedagógico:** Classificar se o participante da PND já possui experiência prévia atuando como professor na Educação Básica ou se é um candidato recém-graduado sem experiência.
 * **Fontes de Dados:** Questionário Contextual da PND 2025 (`QUESTIONARIO_CONTEXTUAL_PND.pdf`).
 * **Roteiro Didático de Execução:**
